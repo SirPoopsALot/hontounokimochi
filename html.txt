@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Sussy Baka Meowl Wife 💖</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #fff0f7;
+            color: #333;
+        }
+        h1 {
+            color: #ff66cc;
+        }
+        .hearts {
+            font-size: 2em;
+            color: #ff3399;
+        }
+        img {
+            max-width: 80%;
+            height: auto;
+            border-radius: 15px;
+            margin-top: 30px;
+        }
+        p {
+            font-size: 1.2em;
+            margin-top: 20px;
+        }
+        .heart-container {
+            font-size: 3em;
+            margin: 20px 0;
+        }
+        .heart-container span {
+            display: inline-block;
+            animation: heart-beat 1.5s infinite alternate;
+        }
+        @keyframes heart-beat {
+            0% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.2);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>To My Cutest, Sweetest Baby 💖</h1>
+    <p>You are my one and only Sussy Baka Meowl Wife, and I love you the most! 🥰</p>
+    
+    <div class="heart-container">
+        <span>❤️</span><span>💖</span><span>❤️</span><span>💖</span><span>❤️</span>
+        <span>💘</span><span>💝</span><span>❤️</span><span>💓</span><span>💖</span>
+        <span>💗</span><span>💌</span><span>❤️</span><span>💘</span><span>💖</span>
+    </div>
+
+    <p>You are the most adorable, sweetest, and perfect person in the world. I am the luckiest to have you as my wife! 💕</p>
+    
+    <img src="https://cdn.discordapp.com/attachments/909051589560516609/1439676314482376796/936669656599638026gieo.png?ex=691b628d&is=691a110d&hm=ded1f6441348a9f937c8b0bfadef90e4bca2b67eeb00265b3409eb619aca2239&" alt="Your special image">
+    
+    <p>Forever yours, my sussy baka meowl wife! 💖</p>
+</body>
+</html>
